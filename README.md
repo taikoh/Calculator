@@ -4,7 +4,7 @@ A simple calculator web application built to practice JavaScript event handling 
 
 ## Features
 
-- Basic arithmetic operations (+, -, *, /)
+- Basic arithmetic operations (+, -, *, /, √, x<sup>y</sup>)
 - Keyboard input support
 - Clear display functionality
 - Error handling for invalid expressions
